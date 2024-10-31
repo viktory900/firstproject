@@ -1,0 +1,18 @@
+h1{
+    padding-top: 30px;
+}
+
+img {
+    width: 250px; /* Ширина изображения */
+    object-fit: cover; /* Масштабирует изображение, чтобы оно покрывало всю область */
+    border-radius: 10px; /* Закругленные углы */
+  }
+
+  .dark-theme {
+    background-color: rgb(37, 34, 31);
+    color: white;
+}
+
+.light-theme {
+    background-color: rgb(255, 255, 255);
+}
